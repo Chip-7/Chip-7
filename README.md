@@ -1,9 +1,6 @@
 #start?
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+To+My+Github;I+am+a+beginner+programmer;I+want+to+learn+programming+from+github)](https://git.io/typing-svg)
----
-[![sart]](https://komarev.com/ghpvc/?username=Sh1n4r4&label=SYSTEM+ACCESSES&color=blue&style=flat-square)
----
 
 #Stats
 ---
