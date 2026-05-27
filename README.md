@@ -15,28 +15,43 @@ Hello, Iam a Newbie ツ
 <br><br>
 
 ```javascript
-(async () => {
-    const my = {
-        name: "Adhy",
-        trd: new Date(2008, 4, 29),
-        get age() {
-            const now = new Date();
-            return now.getFullYear() - this.trd.getFullYear();
-        },
-        location: "Indonesia",
-        timezone: "Asia/Makassar"
-    };
-    //Learning
-    const lern = {
-        backend: ["nodejs", "express"],
-        mobileApp: "reactantive",
-        fronted: ["nextjs", "react"]
-    };
-    const current = null //masi kosong;
-    // Favorite language
-    const stack = "javascript";
+/*
+    ADZY [ZYUU]
+    ─────────────
+    2008.04.29 • 18
+*/
 
-    console.log("Error: Something went wrong");
-    await new Promise(r => setTimeOut(r, 300));
+(async () => {
+  const identity = {
+    name: "adzy",
+    username: "zyuu",
+
+    born: new Date(2008, 3, 29),
+
+    get age() {
+      const now = new Date();
+      return now.getFullYear() - this.born.getFullYear();
+    },
+
+    location: "Indonesia",
+    timezone: "Asia/Makassar"
+  };
+
+  const stack = {
+    languages: ["javascript"],
+    frontend: ["react", "nextjs"],
+    backend: ["nodejs", "express"],
+    mobile: ["react-native"]
+  };
+
+  const current = {
+    learning: ["python", "kotlin"],
+    target: "becoming a better programmer",
+    status: "always learning"
+  };
+
+  console.log("Initializing developer profile...");
+
+  await new Promise(r => setTimeout(r, 300));
 })();
 ```
