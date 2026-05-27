@@ -38,7 +38,7 @@ Hello, Iam a Newbie ツ
   };
 
   const stack = {
-    languages: ["javascript"],
+    languages: ["javascript", "lua"],
     backend: ["nodejs", "express"]
   };
 
