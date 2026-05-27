@@ -18,7 +18,7 @@ Hello, Iam a Newbie ツ
 (async () => {
     const my = {
         name: "Adhy",
-        trd: new Date(2008, 04, 29),
+        trd: new Date(2008, 4, 29),
         get age() {
             const now = new Date();
             return now.getFullYear() - this.trd.getFullYear();
