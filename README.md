@@ -39,9 +39,7 @@ Hello, Iam a Newbie ツ
 
   const stack = {
     languages: ["javascript"],
-    frontend: ["react", "nextjs"],
-    backend: ["nodejs", "express"],
-    mobile: ["flutter"]
+    backend: ["nodejs", "express"]
   };
 
   const current = {
