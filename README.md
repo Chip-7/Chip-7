@@ -41,11 +41,11 @@ Hello, Iam a Newbie ツ
     languages: ["javascript"],
     frontend: ["react", "nextjs"],
     backend: ["nodejs", "express"],
-    mobile: ["react-native"]
+    mobile: ["flutter"]
   };
 
   const current = {
-    learning: ["python", "kotlin"],
+    learning: ["python", "dart", "flutter"],
     target: "becoming a better programmer",
     status: "always learning"
   };
