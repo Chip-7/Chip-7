@@ -1,1 +1,1 @@
-[!WARN[halo]]
+[!INFO[halo]]
