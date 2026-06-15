@@ -1,8 +1,6 @@
-class Inf {
-  constructor (){
-    this.name = "Axeelot"
-    this.alpha = true
-  }
+const nickName = (nick, tahunLahir) => {
+   let umur = new Date().getFullYear() - tahunLahir
+  console.log(nick, umur)
 }
 
-export default new Inf()
+nickName("Adzy ツ", 2008)
