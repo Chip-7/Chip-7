@@ -1,4 +1,4 @@
 # Halo. 
 
 > [!CAUTION]
-> Error: the Stack is not fullk
+> Error: the Stack is not full
