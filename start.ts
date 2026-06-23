@@ -21,4 +21,4 @@ const nickName = (
   console.log(`${nick} ${umur} tahun`)
 }
 
-nickName("Adzy ツ", new Date("2008-08-15"))
+nickName("Adzy ツ", new Date("2008-04-29"))
