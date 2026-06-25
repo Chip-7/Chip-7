@@ -15,6 +15,6 @@ rank: string
 const user: Configs {
 name: "Adzyy ツ",
 stack: ["html","css","js/ts"],
-rank: "Newbie"
+rank: "Newbie i"
 }
 ```
