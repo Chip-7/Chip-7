@@ -4,17 +4,5 @@
 > Error: the Stack is not full
 
 
-```typescript
-// Hello i'am a newbie xixi
-interface Configs {
-name: string,
-stack: string[],
-rank: string
-}
 
-const user: Configs {
-name: "Adzyy ツ",
-stack: ["html","css","js/ts"],
-rank: "Newbie i"
-}
-```
+[![roadmap.sh](https://roadmap.sh/card/wide/6a188b8d11fa913c06b3a700?variant=dark)](https://roadmap.sh)
