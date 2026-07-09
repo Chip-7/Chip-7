@@ -1,3 +1,13 @@
 # Halo. 
 
-<img src="https://streak-stats.demolab.com?user=Chip-7&theme=onedark&hide_border=true" alt="Chip-7's GitHub Stats" />
+
+```lua
+local cfg = {
+    name: "Adzy",
+    status: "beginner",
+    lang: "lua",
+    self: true
+}
+
+return cfg
+```
